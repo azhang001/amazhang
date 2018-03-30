@@ -1,1 +1,2 @@
 # amazhang
+<!DOCTYPE html>
